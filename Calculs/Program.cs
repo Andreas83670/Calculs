@@ -10,6 +10,7 @@ namespace Calculs
     {
         static void Main(string[] args)
         {
+            // ceci est un test
         }
     }
 }
